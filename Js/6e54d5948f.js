@@ -5,7 +5,7 @@ window.FontAwesomeKitConfig = {
     "autoA11y": {
         "enabled": true
     },
-    "baseUrl": "https://ka-pro.fontawesome.com",
+    "baseUrl": "https://ka-p.fontawesome.com",
     "baseUrlKit": "https://kit.fontawesome.com",
     "detectConflictsUntil": null,
     "iconUploads": {},
